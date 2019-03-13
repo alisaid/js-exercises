@@ -3,7 +3,7 @@
 // What was wrong with the original code?
 // Leave comments above your changes to explain
 
-var isHappy = "false";
+var isHappy = false; //booleans are not string. no need to add ""
 
 if (isHappy == true) {
   console.log("I am happy");

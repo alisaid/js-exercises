@@ -14,3 +14,8 @@ Make sure you use words like:
 - etc.
 
 */
+
+var exercise = {
+    understood = false,
+    
+}

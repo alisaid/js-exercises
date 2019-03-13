@@ -20,3 +20,9 @@ var footballClubs = {
 console.log(Object.keys(footballClubs));
 // prints [ 'chelsea_fc', 'fc_barcelona', 'ac_milan' ]
 ```
+
+
+
+
+1) Define a method findAvailableRestaurants which takes a number of people in parameter and returns 
+all the restaurant names which have the required number of seats available at the moment.
